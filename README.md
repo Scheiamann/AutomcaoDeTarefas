@@ -25,7 +25,7 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos, r
 ## 🛠️ Tecnologias Utilizadas
 
 - Python
-- Automação de processos
+- PyAutoGUI
 - Pandas
 - Git & GitHub
 
